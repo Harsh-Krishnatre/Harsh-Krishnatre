@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on: **Sentiment Analysis, IBM Watson AI, ML Pipelines**
 - 🌱 I’m currently learning: **Deep Learning, Model Deployment**
 - 💬 Ask me about: **Python, Machine Learning, Core Java, REST APIs**
-- 📫 How to reach me: **[Email](mailto:your-email@example.com)** or **[LinkedIn](https://www.linkedin.com/in/your-linkedin-id)**
+- 📫 How to reach me: **[Email](mailto:hkrishnatre@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/harsh-krishnatre-583449339/)**
 - ⚡ Fun fact: I love solving logic puzzles and debugging complicated errors!
 
 ---
