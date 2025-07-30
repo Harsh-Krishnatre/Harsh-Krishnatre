@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I'm a Btech CS student with passion towards Programming.</p>
+
+🎓 Final year student | 💻 Passionate Developer | 📊 Aspiring Data Scientist  
+📍 India | 🌐 Building full-stack and AI-powered applications
 
 ###
 
