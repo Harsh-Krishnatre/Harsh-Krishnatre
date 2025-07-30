@@ -23,7 +23,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Krishnatre&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-Krishnatre&theme=github-dark-blue" />
 </p>
  
    
@@ -42,6 +41,27 @@
 </p>
 
 </div>
+
+---
+
+## 📁 Featured Projects
+
+### 🤖 [Sentiment Analysis ML App](https://github.com/Harsh-Krishnatre/Sentiment-Analysis)
+A machine learning project using **Naive Bayes** to classify reviews into **positive, negative, or neutral**. Includes a training pipeline and CSV-based predictions.
+
+### 📊 [Graduate Admission Predictor](https://github.com/Harsh-Krishnatre/AdmissionPrediction)
+Predicts graduate admission chances using **Ridge Regression**. Integrated with **IBM Watsonx.ai** for model storage and deployment. Modular design using `main.py`.
+
+### 🎵 [Spotify Web App (MERN Stack)](https://github.com/Harsh-Krishnatre/Spotify-Web)
+A full-featured Spotify clone built using **MongoDB, Express.js, React, and Node.js** with sleek UI and playlist management.
+
+### 🌍 [Tourism Management System (Java)](https://github.com/Harsh-Krishnatre/Tourism-Management-Java)
+An end-to-end **desktop-based tourism service application** built with Java Swing, JDBC, and MySQL.
+
+### ✍️ [Blog Web App (Django)](https://github.com/Harsh-Krishnatre/Blog-Django)
+A blogging platform with user registration, post creation, and admin panel powered by **Django**.
+
+---
 
 ###
 
