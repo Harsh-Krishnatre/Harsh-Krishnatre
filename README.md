@@ -8,12 +8,23 @@
 
 <br clear="both">
 
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently working on: **Sentiment Analysis, IBM Watson AI, ML Pipelines**
+- 🌱 I’m currently learning: **Deep Learning, Model Deployment**
+- 💬 Ask me about: **Python, Machine Learning, Core Java, REST APIs**
+- 📫 How to reach me: **[Email](mailto:your-email@example.com)** or **[LinkedIn](https://www.linkedin.com/in/your-linkedin-id)**
+- ⚡ Fun fact: I love solving logic puzzles and debugging complicated errors!
+
+---
 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Krishnatre&show_icons=true&theme=transparent" alt="Harsh's GitHub stats" />
-   
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Krishnatre&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-Krishnatre&theme=github-dark-blue" />
+</p>
  
    
 </div>
@@ -25,17 +36,10 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,linux,docker,postgres,mysql,vscode,pycharm&theme=light" />
+</p>
 
 </div>
 
